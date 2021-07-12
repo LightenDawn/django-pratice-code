@@ -15,7 +15,7 @@ monthly_challenges = {
     "september": "The worst time ever.",
     "october": "Fight, fight, fight for your life!",
     "november": "Keep going on, kid!",
-    "december": "The last mile to the goal."
+    "december": None
 }
 
 
